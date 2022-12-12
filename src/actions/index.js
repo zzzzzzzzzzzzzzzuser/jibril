@@ -9,7 +9,7 @@ const {
   existInCollection,
   getCollections
 } = require('../storage')
-
+console.log('awesome this')
 const {
   askForAWord,
   askForADescription,
